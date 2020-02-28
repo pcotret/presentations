@@ -4,7 +4,7 @@
 
 [Con website](https://devfest.duboutdumonde.bzh/) and [slides](./talks/devfest-2020.pdf).
 
-## Toulouse Hacking Convention - 01/01/2018
+## Toulouse Hacking Convention - 09/03/2018
 
 > Résultats d'un projet de recherche ([lien](https://project.inria.fr/hardblare/)).
 
